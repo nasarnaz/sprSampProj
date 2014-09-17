@@ -1,0 +1,4 @@
+sprSampProj
+===========
+
+Sample spring Project
